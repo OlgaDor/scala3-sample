@@ -1,0 +1,29 @@
+*.class
+*.xml
+
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# sbt specific
+target/
+.bsp
+
+# Scala-IDE specific
+.scala_dependencies
+.cache
+.classpath
+.project
+.settings
+classes/
+
+# idea
+.idea
+.idea_modules
+/.worksheet/
+
